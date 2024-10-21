@@ -70,11 +70,7 @@ I'm always excited to connect with fellow professionals and enthusiasts. Feel fr
 
 
 
-### My tools for Data Manipulation:
 
-| Mongodb | MySQL | Postgres | SQLite |
-|----------|----------|----------|----------|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
 
 ---
 
