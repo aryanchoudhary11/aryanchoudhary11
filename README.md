@@ -41,7 +41,7 @@
 **Hi there! 👋**
 
 - 💬 I’m passionate about technologies and always open to discussing and sharing knowledge. If you have any questions or need advice, feel free to ask!
-- 📫 You can easily reach me via email at **viahalyadav0987@gmail.com**. I’m always open to networking and collaboration opportunities.
+- 📫 You can easily reach me via email at **achoudhary.aryan@gmail.com**. I’m always open to networking and collaboration opportunities.
 
 ---
 
