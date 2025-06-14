@@ -49,7 +49,7 @@
 ### Connect with me
 | LinkdIn | G-Mail |
 |---------|----------|
-|<a href="www.linkedin.com/in/aryan-choudhary-aryan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aryan-choudhary-aryan" height="50" width="55" /></a> |<a href="mailto:achoudhary.aryan@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="achoudhary.aryan@gmail.com" height="55" width="55" /></a> |
+|<a href="https://www.linkedin.com/in/aryan-choudhary-aryan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-choudhary-aryan" height="50" width="55" /></a> |<a href="mailto:achoudhary.aryan@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/original/gmail-mail-icon-for-web-design-free-png.png" alt="achoudhary.aryan@gmail.com" height="55" width="55" /></a> |
 
 **Let's Connect!**
 I'm always excited to connect with fellow professionals and enthusiasts. Feel free to reach out through the following platforms:
