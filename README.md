@@ -86,7 +86,7 @@ I'm always excited to connect with fellow professionals and enthusiasts. Feel fr
 <p align="center" style="max-width: 100%;">&nbsp;<img width="800" height="220"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanchoudhary11&amp;theme=highcontrast&amp;hide_border=true&amp;border_radius=5&amp;card_width=800" alt="" /></p> <br>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanchoudhary11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&amp;theme=highcontrast&amp;&show_&hide_border=true&amp;border_radius=5&amp;card_width=800" alt="vishalyadav0987" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanchoudhary11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&amp;theme=highcontrast&amp;&show_&hide_border=true&amp;border_radius=5&amp;card_width=800" alt="aryanchoudhary11" /></p><br>
 
 
-<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchoudhary11&amp;theme=highcontrast&amp;&show_&hide_border=true&amp;border_radius=5&amp;card_width=800" alt="vishalyadav0987" /></p>
+<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchoudhary11&amp;theme=highcontrast&amp;&show_&hide_border=true&amp;border_radius=5&amp;card_width=800" alt="aryanchoudhary11" /></p>
