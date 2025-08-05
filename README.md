@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Choudhary</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<div align="center">
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
-</div>
+
 <!-- <div align="center" style="margin:20px">
   <a href="https://github.com/vishalyadav0987/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/vishalyadav0987/github-profile-trophy" alt="Issues"/>
