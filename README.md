@@ -1,5 +1,17 @@
 # 💫 About Me:
-Currently working on Farm2Table project <br>Gaining cyber security and web development skills
+💻 Cybersecurity student | 🔒 Aspiring Security Professional | 🌐 Full-Stack Developer
+
+🚀 Exploring Vulnerability Assessment, Penetration Testing & System Hardening
+
+🌱 Currently learning Node.js, Express, and advanced React
+
+🛡️ Passionate about building secure and scalable applications
+
+🔍 Love solving problems, from DSA patterns to real-world security challenges
+
+📚 Always learning & sharing knowledge in cybersecurity and development
+
+⚡ Fun fact: I break things to make them stronger 🔐
 
 
 ## 🌐 Socials:
